@@ -1,4 +1,4 @@
-Agradecimiento especiales a los autores de `medTorch`, que fue pilar fundamental para la construcción de `uniMedic`:
+Agradecimientos especiales a los autores de `medTorch`, que fue pilar fundamental para la construcción de `uniMedic`:
 
 - [Tudor Cebere](https://github.com/tudorcebere)
 
