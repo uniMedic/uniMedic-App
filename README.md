@@ -63,7 +63,7 @@ Este proyecto se basó en el repositorio de [medtorch](https://github.com/medtor
 
 #### Diagnóstico PDF
 <p align="center">
-  <img align="center" src="src/images/screens/14.png" alt="Imagen inválida" width="80%">
+  <img align="center" src="src/images/screens/14.png" alt="Imagen inválida" width="70%">
 </p>
 
 ## Instalación

@@ -11,7 +11,6 @@ import { createStackNavigator } from '@react-navigation/stack';
 // screens
 import Login from './../screens/Login';
 import Signup from './../screens/Signup';
-import Welcome from './../screens/Welcome';
 import MedicNavigator from './MedicNavigator';
 import User from './../screens/User/index';
 
